@@ -1,6 +1,9 @@
 Paradigm Shift of GNN Explainer from Label Space to Prototypical Representation Space. ICLR 2026, Poster.
-<img width="678" height="574" alt="image" src="https://github.com/user-attachments/assets/86bad68a-ca6e-47fc-a5c5-dba729d7bf8b" />
+<div align="center">
+  <img width="678" height="574" alt="image" src="https://github.com/user-attachments/assets/86bad68a-ca6e-47fc-a5c5-dba729d7bf8b" />
+</div>
 - --
+
 ### Environment
 The environment has been exported to `IDEA/requirements.txt`.
 
